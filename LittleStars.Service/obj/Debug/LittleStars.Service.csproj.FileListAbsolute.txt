@@ -1,0 +1,14 @@
+C:\Users\admin\documents\visual studio 2013\Projects\LittleStars\LittleStars.Service\bin\LittleStars.Service.dll.config
+C:\Users\admin\documents\visual studio 2013\Projects\LittleStars\LittleStars.Service\bin\LittleStars.Service.dll
+C:\Users\admin\documents\visual studio 2013\Projects\LittleStars\LittleStars.Service\bin\LittleStars.Service.pdb
+C:\Users\admin\documents\visual studio 2013\Projects\LittleStars\LittleStars.Service\bin\LittleStars.Domain.dll
+C:\Users\admin\documents\visual studio 2013\Projects\LittleStars\LittleStars.Service\bin\log4net.dll
+C:\Users\admin\documents\visual studio 2013\Projects\LittleStars\LittleStars.Service\bin\Mweb.Foundation.Practices.dll
+C:\Users\admin\documents\visual studio 2013\Projects\LittleStars\LittleStars.Service\bin\LittleStars.Infrastructure.dll
+C:\Users\admin\documents\visual studio 2013\Projects\LittleStars\LittleStars.Service\bin\EntityFramework.dll
+C:\Users\admin\documents\visual studio 2013\Projects\LittleStars\LittleStars.Service\bin\LittleStars.Domain.pdb
+C:\Users\admin\documents\visual studio 2013\Projects\LittleStars\LittleStars.Service\bin\LittleStars.Infrastructure.pdb
+C:\Users\admin\documents\visual studio 2013\Projects\LittleStars\LittleStars.Service\bin\EntityFramework.xml
+C:\Users\admin\documents\visual studio 2013\Projects\LittleStars\LittleStars.Service\obj\Debug\LittleStars.Service.csprojResolveAssemblyReference.cache
+C:\Users\admin\documents\visual studio 2013\Projects\LittleStars\LittleStars.Service\obj\Debug\LittleStars.Service.dll
+C:\Users\admin\documents\visual studio 2013\Projects\LittleStars\LittleStars.Service\obj\Debug\LittleStars.Service.pdb

@@ -1,0 +1,9 @@
+C:\Users\admin\documents\visual studio 2013\Projects\LittleStars\LittleStars.Infrastructure\bin\Debug\LittleStars.Infrastructure.dll
+C:\Users\admin\documents\visual studio 2013\Projects\LittleStars\LittleStars.Infrastructure\bin\Debug\LittleStars.Infrastructure.pdb
+C:\Users\admin\documents\visual studio 2013\Projects\LittleStars\LittleStars.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\admin\documents\visual studio 2013\Projects\LittleStars\LittleStars.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\documents\visual studio 2013\Projects\LittleStars\LittleStars.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\admin\documents\visual studio 2013\Projects\LittleStars\LittleStars.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\documents\visual studio 2013\Projects\LittleStars\LittleStars.Infrastructure\obj\Debug\LittleStars.Infrastructure.dll
+C:\Users\admin\documents\visual studio 2013\Projects\LittleStars\LittleStars.Infrastructure\obj\Debug\LittleStars.Infrastructure.pdb
+C:\Users\admin\documents\visual studio 2013\Projects\LittleStars\LittleStars.Infrastructure\bin\Debug\LittleStars.Infrastructure.dll.config
